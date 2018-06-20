@@ -1,1 +1,2 @@
-change fileA.txt to read feature 1 with 1 bug
+feature 1 with 1 bug
+feature 2 wip
